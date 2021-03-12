@@ -19,6 +19,7 @@
 #include <QDebug>
 
 #include <QDragEnterEvent>
+#include <QMimeData>
 #include <QUrl>
 #include <QDir>
 
