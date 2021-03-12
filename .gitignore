@@ -1,0 +1,4 @@
+*.o
+yaffey.app
+.qmake.stash
+Makefile
